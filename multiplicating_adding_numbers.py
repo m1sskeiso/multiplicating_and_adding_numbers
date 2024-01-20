@@ -1,5 +1,4 @@
 
-
 # The given
 number1 = 40
 number2 = 30
@@ -12,4 +11,4 @@ def add(number1, number2):
 result = (number1 +number2)
 
 # Print the result
-print(result)
+print("the result is", result)
